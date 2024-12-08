@@ -2,6 +2,10 @@
 
 Script só foi migrado pro Kubuntu (Ubuntu com KDE). Todos os créditos ao autor original. 
 
+# Instalação
+
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/Every2/Desbostificando-o-Kubuntu/refs/heads/main/ubuntu-debullshit.sh)"
+
 
 Compre um café pro autor original.
 
